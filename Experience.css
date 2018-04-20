@@ -3,12 +3,12 @@ body {
 }
 
  .main-image {
-   border: solid 3px black;
+   border: solid 3px orange;
    border-radius: 50%;
  }
 
  h1 {
-   background-color: #58fcc1;
+   background-color: #2bdfbb;
    padding: 5px;
  }
 
